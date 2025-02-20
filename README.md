@@ -36,7 +36,7 @@ Have fun!
 
 ### Features
 
-- [x] Automatically find ~/$USER/Music folder
+- [x] Automatically find and use ~/$USER/Music folder OR create one if it is missing
 - [x] Scroll through a list of files in a directory
 - [x] Play and Pause
 - [x] Volume Control
