@@ -2,6 +2,12 @@
 
 A simple CLI music player written in rust and ratatui
 
+Add files to the `~/[user_name]/Music` directory to see music files
+
+Build and Run: `cargo build --release && cargo run`
+
+Have fun!
+
 ![example](./assets/screen1.png)
 
 ### Keys
