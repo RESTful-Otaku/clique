@@ -1,10 +1,8 @@
-# rust-music-player 
+# Clique 
 
-A simple cli music player written in rust and ratatui
+A simple CLI music player written in rust and ratatui
 
 ![example](./assets/screen1.png)
-
-For now, you have to change the path in src/app.rs 
 
 ### Keys
 
@@ -32,8 +30,10 @@ For now, you have to change the path in src/app.rs
 
 ### Features
 
+- [x] Automatically find ~/$USER/Music folder
 - [x] Scroll through a list of files in a directory
 - [x] Play and Pause
 - [x] Volume Control
 - [x] Move between folders
 - [x] Play queue support
+- [x] Gracefully handle invalid commands, missing directories and missing/inaccessible files with useful error messaging and recovery
